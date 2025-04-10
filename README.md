@@ -1,5 +1,5 @@
 Henry's Store Data Analysis (Interactive Dashboard creation using MS Excel)
-# Excel Dashboard.
+# Excel Dashboard
 ![Henry'sStoreImage](https://github.com/user-attachments/assets/94765701-7f28-4d6b-a929-cbf7669bfb7a)
 
 
